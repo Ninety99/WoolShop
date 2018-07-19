@@ -1,0 +1,5 @@
+name: WoolShop
+version: 1.0
+author: NinetyNine
+main: me.NinetyNine.woolshop.WoolShop
+description: A wool shop for Annihilation.
